@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MOHD SAMEERr</h1>
+<h1 align="center">Hi 👋, I'm MOHD SAMEER</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+Docker+%7C+Kafka;Building+Scalable+Backend+Systems" />
