@@ -69,18 +69,24 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerCodex&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sameercodex&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="SameerCodex GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SameerCodex&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sameercodex&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" />
 </p>
+
 
 ---
 
 ## 📫 Connect With Me
 - 🌐 GitHub: https://github.com/SameerCodex
-- 📧 Email: yourprofessionalemail@gmail.com
+- 📧 Email: mohd.sameer.works@gmail.com
 
 ⭐ Thanks for visiting my profile!
